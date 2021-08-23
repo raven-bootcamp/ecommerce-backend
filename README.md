@@ -14,7 +14,7 @@ Link to code repository: https://github.com/raven-bootcamp/ecommerce-backend
 ## The Task
 Our task is to build the back end for an e-commerce site by modifying starter code. We’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
+Because this application won’t be deployed, we'll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
 
 We need to use Insomnia to demonstrate the functionality of what we've built.
 ## Instructions for Use
